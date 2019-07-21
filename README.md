@@ -1,4 +1,4 @@
-# Final_Project
+# Lesion Analyzer 
 
 ## Objective
 Create a web application that allows users to investigate skin abnormalities such as moles / lesions displayed in an uploaded image. 
